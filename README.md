@@ -17,3 +17,4 @@ Something else that was useful was puttin the book functions in to its own folde
 1. Convert the book function constructor into an ES6 class. 
 2. Turn that huge block of DOM creation in the `forEach` loop into seperate functions. 
 3. Make `deleteBook` function work. 
+4. Add a toggle to switch between if a user read a book. 
