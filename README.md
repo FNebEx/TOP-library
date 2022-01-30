@@ -1,5 +1,5 @@
 # TOP-library
-The "Library" project from The Odin Project
+The "Library" project from The Odin Project. [Link to live demo](ignorant-oven.surge.sh).
 
 ### The project
 The project outlined that we make a site that took user input about books and add it to an array. From there, loop through array and display all the entries on the page. 
